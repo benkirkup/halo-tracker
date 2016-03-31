@@ -1,0 +1,60 @@
+body {
+    background-color: #5e5e5e;
+}
+
+.container#jumbo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.jumbotron#title-window {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 40pt;
+}
+
+#content-window {
+}
+
+.col-sm-4#l-panel,
+.col-sm-4#m-panel,
+.col-sm-4#r-panel {
+    padding: 0;
+    text-align: center;
+    font-size: 25pt;
+}
+
+img {
+    position:absolute;
+    margin-top: 80px;
+    top: 50px;
+    left: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+img#ben-spartan,
+img#ned-spartan,
+img#rory-spartan {
+    z-index: 20;
+    top: 50px;
+    -webkit-filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.9));
+    filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.9));
+}
+
+img#ben-emblem,
+img#ned-emblem,
+img#rory-emblem {
+    z-index: 10;
+    top: -50px;
+    float: right;
+    margin-left: 100px;
+    -webkit-filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.9));
+    filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.9));
+    opacity: 0.6;
+}
+

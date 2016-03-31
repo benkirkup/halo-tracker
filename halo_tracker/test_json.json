@@ -1,0 +1,339 @@
+{
+
+  "Start": 0,
+
+  "Count": 2,
+
+  "ResultCount": 2,
+
+  "Results": [
+
+    {
+
+      "Links": {
+
+        "StatsMatchDetails": {
+
+          "AuthorityId": "spartanstats",
+
+          "Path": "h5/arena/matches/76d0dc13-0c59-456d-970e-6f7968a34385",
+
+          "QueryString": null,
+
+          "RetryPolicyId": "exponentialretry",
+
+          "TopicName": "",
+
+          "AcknowledgementTypeId": 0,
+
+          "AuthenticationLifetimeExtensionSupported": false
+
+        },
+
+        "UgcFilmManifest": {
+
+          "AuthorityId": "ugc",
+
+          "Path": "/h5/films/76d0dc13-0c59-456d-970e-6f7968a34385",
+
+          "QueryString": "?view=film-manifest",
+
+          "RetryPolicyId": "exponentialretry",
+
+          "TopicName": "",
+
+          "AcknowledgementTypeId": 0,
+
+          "AuthenticationLifetimeExtensionSupported": false
+
+        }
+
+      },
+
+      "Id": {
+
+        "MatchId": "76d0dc13-0c59-456d-970e-6f7968a34385",
+
+        "GameMode": 1
+
+      },
+
+      "HopperId": "c98949ae-60a8-43dc-85d7-0feb0b92e719",
+
+      "MapId": "ca737f8f-f206-11e4-a7e2-24be05e24f7e",
+
+      "MapVariant": {
+
+        "ResourceType": 3,
+
+        "ResourceId": "a3dc1ffe-5af9-49b1-b5f8-20380d4ad7d2",
+
+        "OwnerType": 3,
+
+        "Owner": ""
+
+      },
+
+      "GameBaseVariantId": "1571fdac-e0b4-4ebc-a73a-6e13001b71d3",
+
+      "GameVariant": {
+
+        "ResourceType": 2,
+
+        "ResourceId": "0b0a60f1-5fff-4779-a210-3a6ef9bfce7f",
+
+        "OwnerType": 3,
+
+        "Owner": ""
+
+      },
+
+      "MatchDuration": "PT6M36.0059994S",
+
+      "MatchCompletedDate": {
+
+        "ISO8601Date": "2016-03-30T00:00:00Z"
+
+      },
+
+      "Teams": [
+
+        {
+
+          "Id": 1,
+
+          "Score": 100,
+
+          "Rank": 1
+
+        },
+
+        {
+
+          "Id": 0,
+
+          "Score": 36,
+
+          "Rank": 2
+
+        }
+
+      ],
+
+      "Players": [
+
+        {
+
+          "Player": {
+
+            "Gamertag": "MrsNesbitt90",
+
+            "Xuid": null
+
+          },
+
+          "TeamId": 1,
+
+          "Rank": 1,
+
+          "Result": 3,
+
+          "TotalKills": 9,
+
+          "TotalDeaths": 8,
+
+          "TotalAssists": 3,
+
+          "PreMatchRatings": null,
+
+          "PostMatchRatings": null
+
+        }
+
+      ],
+
+      "IsTeamGame": true,
+
+      "SeasonId": "b28521af-7c40-4fe2-8d6e-158a5c2d9c03",
+
+      "MatchCompletedDateFidelity": 1
+
+    },
+
+    {
+
+      "Links": {
+
+        "StatsMatchDetails": {
+
+          "AuthorityId": "spartanstats",
+
+          "Path": "h5/arena/matches/28a1b44f-4128-4b70-b016-a6c236651016",
+
+          "QueryString": null,
+
+          "RetryPolicyId": "exponentialretry",
+
+          "TopicName": "",
+
+          "AcknowledgementTypeId": 0,
+
+          "AuthenticationLifetimeExtensionSupported": false
+
+        },
+
+        "UgcFilmManifest": {
+
+          "AuthorityId": "ugc",
+
+          "Path": "/h5/films/28a1b44f-4128-4b70-b016-a6c236651016",
+
+          "QueryString": "?view=film-manifest",
+
+          "RetryPolicyId": "exponentialretry",
+
+          "TopicName": "",
+
+          "AcknowledgementTypeId": 0,
+
+          "AuthenticationLifetimeExtensionSupported": false
+
+        }
+
+      },
+
+      "Id": {
+
+        "MatchId": "28a1b44f-4128-4b70-b016-a6c236651016",
+
+        "GameMode": 1
+
+      },
+
+      "HopperId": "c98949ae-60a8-43dc-85d7-0feb0b92e719",
+
+      "MapId": "cc74f4e1-f206-11e4-ad66-24be05e24f7e",
+
+      "MapVariant": {
+
+        "ResourceType": 3,
+
+        "ResourceId": "54e0eda8-c71a-47dc-bfab-912d0e75161b",
+
+        "OwnerType": 3,
+
+        "Owner": ""
+
+      },
+
+      "GameBaseVariantId": "a2949322-dc84-45ab-8454-cf94fb28c189",
+
+      "GameVariant": {
+
+        "ResourceType": 2,
+
+        "ResourceId": "fe42ad7e-03fb-45ff-a0cb-0bbda52bdbf3",
+
+        "OwnerType": 3,
+
+        "Owner": ""
+
+      },
+
+      "MatchDuration": "PT11M49.5744528S",
+
+      "MatchCompletedDate": {
+
+        "ISO8601Date": "2016-03-30T00:00:00Z"
+
+      },
+
+      "Teams": [
+
+        {
+
+          "Id": 1,
+
+          "Score": 3,
+
+          "Rank": 1
+
+        },
+
+        {
+
+          "Id": 0,
+
+          "Score": 2,
+
+          "Rank": 2
+
+        }
+
+      ],
+
+      "Players": [
+
+        {
+
+          "Player": {
+
+            "Gamertag": "MrsNesbitt90",
+
+            "Xuid": null
+
+          },
+
+          "TeamId": 1,
+
+          "Rank": 3,
+
+          "Result": 3,
+
+          "TotalKills": 10,
+
+          "TotalDeaths": 17,
+
+          "TotalAssists": 6,
+
+          "PreMatchRatings": null,
+
+          "PostMatchRatings": null
+
+        }
+
+      ],
+
+      "IsTeamGame": true,
+
+      "SeasonId": "b28521af-7c40-4fe2-8d6e-158a5c2d9c03",
+
+      "MatchCompletedDateFidelity": 1
+
+    }
+
+  ],
+
+  "Links": {
+
+    "Self": {
+
+      "AuthorityId": "spartanstats",
+
+      "Path": "/h5/players/mrsnesbitt90/matches",
+
+      "QueryString": "?include-xuids=false&view=full&include-ratings=false&include-times=false&count=2",
+
+      "RetryPolicyId": "",
+
+      "TopicName": "",
+
+      "AcknowledgementTypeId": 0,
+
+      "AuthenticationLifetimeExtensionSupported": false
+
+    }
+
+  }
+
+}

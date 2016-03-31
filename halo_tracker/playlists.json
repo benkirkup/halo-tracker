@@ -1,0 +1,325 @@
+{
+    "playlists": [
+      {
+        "name": "Team Arena",
+        "description": "Play on the very best modes and maps Halo 5: Guardians has to offer. Congratulations to CLG for winning the first Halo World Championship!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "c98949ae-60a8-43dc-85d7-0feb0b92e719",
+        "contentId": "c98949ae-60a8-43dc-85d7-0feb0b92e719"
+      },
+      {
+        "name": "Slayer ",
+        "description": "Work with a team, vanquish your opponents.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "892189e9-d712-4bdb-afa7-1ccab43fbed4",
+        "contentId": "892189e9-d712-4bdb-afa7-1ccab43fbed4"
+      },
+      {
+        "name": "Breakout",
+        "description": "Halo 5’s premiere high-lethality single life elimination mode. Now includes 9 new community-selected maps!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba",
+        "contentId": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba"
+      },
+      {
+        "name": "SWAT",
+        "description": "No shields, no motion tracker.  Aim for the Head!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "f27a65eb-2d11-4965-aa9c-daa088fa5c9c",
+        "contentId": "f27a65eb-2d11-4965-aa9c-daa088fa5c9c"
+      },
+      {
+        "name": "Free-for-All",
+        "description": "It's you against everyone else.  Slay your way to victory.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "7b7e892c-d9b7-4b03-bef8-c6a071df28ef",
+        "contentId": "7b7e892c-d9b7-4b03-bef8-c6a071df28ef"
+      },
+      {
+        "name": "Pre-Release Arena",
+        "description": "To optimize the early access experience, we are limiting the number of multiplayer playlists.  We will have far more playlists available at launch.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "c506d28e-fd7c-4a45-b7d1-05e20f1d425b",
+        "contentId": "c506d28e-fd7c-4a45-b7d1-05e20f1d425b"
+      },
+      {
+        "name": "Social Shotty Snipers",
+        "description": "Get up close and personal with a shotgun or strike from a distance with a sniper rifle.",
+        "isRanked": false,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "819eb188-1a1c-48b4-9af3-283d2447ff6f",
+        "contentId": "819eb188-1a1c-48b4-9af3-283d2447ff6f"
+      },
+      {
+        "name": "Social Doubles",
+        "description": "2v2 Slayer. 25 points to win. Teamwork is necessary for victory.",
+        "isRanked": false,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "5728f612-3f20-4459-98bd-3478c79c4861",
+        "contentId": "5728f612-3f20-4459-98bd-3478c79c4861"
+      },
+      {
+        "name": "Big Team Battle",
+        "description": "Slayer, Capture the Flag, and Strongholds for teams of 8 on 8.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "0bcf2be1-3168-4e42-9fb5-3551d7dbce77",
+        "contentId": "0bcf2be1-3168-4e42-9fb5-3551d7dbce77"
+      },
+      {
+        "name": "Social Rumble Rockets",
+        "description": "Free-for-All Slayer but with Rocket Launchers!",
+        "isRanked": false,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "88b7de19-113c-4beb-af7f-8553aeda3f4c",
+        "contentId": "88b7de19-113c-4beb-af7f-8553aeda3f4c"
+      },
+      {
+        "name": "Social Snipers",
+        "description": "Battle against a team of Spartans in a true test of marksmanship. Sniper Rifles only! To add to the chaos, we’ve added some vehicular action for this go ‘round. Pick off those pesky Warthog gunners!",
+        "isRanked": false,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "7385b4a1-86bf-4aec-b9c2-411a6aa48633",
+        "contentId": "7385b4a1-86bf-4aec-b9c2-411a6aa48633"
+      },
+      {
+        "name": "Social Arena Breakout",
+        "description": "Breakout with full shields and damage on Arena maps with custom weapon layouts.",
+        "isRanked": false,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "4b12472e-2a06-4235-ba58-f376be6c1b39",
+        "contentId": "4b12472e-2a06-4235-ba58-f376be6c1b39"
+      }
+    ],
+    "iconUrl": null,
+    "name": "Preseason",
+    "startDate": "2015-09-18T22:42:00Z",
+    "endDate": "2015-12-16T17:00:00Z",
+    "isActive": false,
+    "id": "2041d318-dd22-47c2-a487-2818ecf14e41",
+    "contentId": "2041d318-dd22-47c2-a487-2818ecf14e41"
+  },
+  {
+    "playlists": [
+      {
+        "name": "Team Arena",
+        "description": "Play on the very best modes and maps Halo 5: Guardians has to offer. Congratulations to CLG for winning the first Halo World Championship!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "c98949ae-60a8-43dc-85d7-0feb0b92e719",
+        "contentId": "c98949ae-60a8-43dc-85d7-0feb0b92e719"
+      },
+      {
+        "name": "Slayer ",
+        "description": "Work with a team, vanquish your opponents.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "892189e9-d712-4bdb-afa7-1ccab43fbed4",
+        "contentId": "892189e9-d712-4bdb-afa7-1ccab43fbed4"
+      },
+      {
+        "name": "Breakout",
+        "description": "Halo 5’s premiere high-lethality single life elimination mode. Now includes 9 new community-selected maps!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba",
+        "contentId": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba"
+      },
+      {
+        "name": "Free-for-All",
+        "description": "It's you against everyone else.  Slay your way to victory.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "d0766624-dbd7-4536-ba39-2d890a6143a9",
+        "contentId": "d0766624-dbd7-4536-ba39-2d890a6143a9"
+      },
+      {
+        "name": "SWAT",
+        "description": "No shields, no motion tracker.  Aim for the Head!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "2323b76a-db98-4e03-aa37-e171cfbdd1a4",
+        "contentId": "2323b76a-db98-4e03-aa37-e171cfbdd1a4"
+      },
+      {
+        "name": "Social Doubles",
+        "description": "2v2 Slayer. 25 points to win. Teamwork is necessary for victory.",
+        "isRanked": false,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": false,
+        "id": "5728f612-3f20-4459-98bd-3478c79c4861",
+        "contentId": "5728f612-3f20-4459-98bd-3478c79c4861"
+      }
+    ],
+    "iconUrl": "https://content.halocdn.com/media/Default/forums/badges/thumbs/badge-enlisted-45x45-0d172751d2aa4d4691cf966c111b9ece.png",
+    "name": "January 2016 Season",
+    "startDate": "2015-12-16T17:00:00Z",
+    "endDate": "2016-02-01T08:01:00Z",
+    "isActive": false,
+    "id": "2fcc20a0-53ff-4ffb-8f72-eebb2e419273",
+    "contentId": "2fcc20a0-53ff-4ffb-8f72-eebb2e419273"
+  },
+  {
+    "playlists": [
+      {
+        "name": "Team Arena",
+        "description": "Play on the very best modes and maps Halo 5: Guardians has to offer. Congratulations to CLG for winning the first Halo World Championship!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "c98949ae-60a8-43dc-85d7-0feb0b92e719",
+        "contentId": "c98949ae-60a8-43dc-85d7-0feb0b92e719"
+      },
+      {
+        "name": "Slayer ",
+        "description": "Work with a team, vanquish your opponents.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "892189e9-d712-4bdb-afa7-1ccab43fbed4",
+        "contentId": "892189e9-d712-4bdb-afa7-1ccab43fbed4"
+      },
+      {
+        "name": "Breakout",
+        "description": "Halo 5’s premiere high-lethality single life elimination mode. Now includes 9 new community-selected maps!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba",
+        "contentId": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba"
+      },
+      {
+        "name": "Free-for-All",
+        "description": "It's you against everyone else.  Slay your way to victory.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "d0766624-dbd7-4536-ba39-2d890a6143a9",
+        "contentId": "d0766624-dbd7-4536-ba39-2d890a6143a9"
+      },
+      {
+        "name": "SWAT",
+        "description": "No shields, no motion tracker.  Aim for the Head!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "2323b76a-db98-4e03-aa37-e171cfbdd1a4",
+        "contentId": "2323b76a-db98-4e03-aa37-e171cfbdd1a4"
+      }
+    ],
+    "iconUrl": "https://content.halocdn.com/media/Default/forums/badges/thumbs/badge-enlisted-45x45-0d172751d2aa4d4691cf966c111b9ece.png",
+    "name": "February 2016 Season",
+    "startDate": "2016-02-01T08:01:00Z",
+    "endDate": "2016-03-01T08:01:00Z",
+    "isActive": false,
+    "id": "b46c2095-4ca6-4f4b-a565-4702d7cfe586",
+    "contentId": "b46c2095-4ca6-4f4b-a565-4702d7cfe586"
+  },
+  {
+    "playlists": [
+      {
+        "name": "Team Arena",
+        "description": "Play on the very best modes and maps Halo 5: Guardians has to offer. Congratulations to CLG for winning the first Halo World Championship!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "c98949ae-60a8-43dc-85d7-0feb0b92e719",
+        "contentId": "c98949ae-60a8-43dc-85d7-0feb0b92e719"
+      },
+      {
+        "name": "Slayer ",
+        "description": "Work with a team, vanquish your opponents.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "892189e9-d712-4bdb-afa7-1ccab43fbed4",
+        "contentId": "892189e9-d712-4bdb-afa7-1ccab43fbed4"
+      },
+      {
+        "name": "Breakout",
+        "description": "Halo 5’s premiere high-lethality single life elimination mode. Now includes 9 new community-selected maps!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba",
+        "contentId": "f72e0ef0-7c4a-4307-af78-8e38dac3fdba"
+      },
+      {
+        "name": "Free-for-All",
+        "description": "It's you against everyone else.  Slay your way to victory.",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "d0766624-dbd7-4536-ba39-2d890a6143a9",
+        "contentId": "d0766624-dbd7-4536-ba39-2d890a6143a9"
+      },
+      {
+        "name": "SWAT",
+        "description": "No shields, no motion tracker.  Aim for the Head!",
+        "isRanked": true,
+        "imageUrl": null,
+        "gameMode": "Arena",
+        "isActive": true,
+        "id": "2323b76a-db98-4e03-aa37-e171cfbdd1a4",
+        "contentId": "2323b76a-db98-4e03-aa37-e171cfbdd1a4"
+      }
+    ],
+    "iconUrl": "https://content.halocdn.com/media/Default/forums/badges/thumbs/badge-enlisted-45x45-0d172751d2aa4d4691cf966c111b9ece.png",
+    "name": "March 2016 Season",
+    "startDate": "2016-03-01T08:01:00Z",
+    "endDate": null,
+    "isActive": true,
+    "id": "b28521af-7c40-4fe2-8d6e-158a5c2d9c03",
+    "contentId": "b28521af-7c40-4fe2-8d6e-158a5c2d9c03"
+  }
+]

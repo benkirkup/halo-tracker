@@ -1,0 +1,46 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/bootstrap-theme.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+
+    <script src="{% static 'js/jquery-2.2.2.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+
+</head>
+<body>
+
+<div class="container" id="jumbo">
+    <div class="jumbotron" id="title-window">
+        title-window
+    </div>
+
+    <div id="content-window">
+        <div class="col-sm-4" id="l-panel">
+            <h2>Left panel content</h2>
+            <img id="ben-emblem" src="{% static 'img/players/cptsponge_ii_emblem.png' %}">
+            <img id="ben-spartan" src="{% static 'img/players/cptsponge_ii.png' %}">
+            <div>
+                <p style="position: absolute; float: bottom">Yep</p>
+            </div>
+        </div>
+        <div class="col-sm-4" id="m-panel">
+            Middle panel content
+            <img id="ned-emblem" src="{% static 'img/players/syphen_d664_emblem.png' %}">
+            <img id="ned-spartan" src="{% static 'img/players/syphen_d664.png' %}">
+        </div>
+        <div class="col-sm-4" id="r-panel">
+            Right panel content
+            <img id="rory-emblem" src="{% static 'img/players/mrsnesbitt90_emblem.png' %}">
+            <img id="rory-spartan" src="{% static 'img/players/mrsnesbitt90.png' %}">
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
